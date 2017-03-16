@@ -72,6 +72,7 @@ module.exports = function(grunt) {
 
         clean: ['./dist']
     });
+	
 
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-copy');
@@ -79,3 +80,4 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-hapi');
 
 };
+
