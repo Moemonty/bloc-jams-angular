@@ -27,14 +27,8 @@
   ],
   "author": "Ashley Nelms",
   "license": "ISC",
-<<<<<<< HEAD
   "bugs": {
     "url": "https://github.com/ashnel/bloc-jams-angular/issues"
-=======
-  "dependencies": {
-    "hapi": "~7.5.0",
-    "path": "^0.4.9"
->>>>>>> a12f2ff60315cb876f9f228a7da564578c565295
   },
   "homepage": "https://github.com/ashnel/bloc-jams-angular#readme"
 }
