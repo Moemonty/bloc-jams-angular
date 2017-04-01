@@ -1,6 +1,6 @@
 (function() {
-    function AlbumCtrl(Fixtures, SongPlayer) {
-        this.albumData = album.albumPicasso;
+    function AlbumCtrl() {
+        this.albumData = angular.copy(albumPicasso);
     };
 
     angular
